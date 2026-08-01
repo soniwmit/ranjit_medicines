@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MED-101",
+    "name": "Paracetamol 650mg (Dolo 650 / Calpol)",
+    "brand": "Micro Labs / GSK",
+    "category": "Prescription & OTC",
+    "mrp": 32.50,
+    "quantity": 150,
+    "expiry": "12/2027",
+    "status": "Available",
+    "dosage": "As directed by physician for fever and mild pain relief."
+  },
+  {
+    "id": "MED-102",
+    "name": "Azithromycin 500mg (Azithral 500)",
+    "brand": "Alembic Pharma",
+    "category": "Antibiotics",
+    "mrp": 119.00,
+    "quantity": 42,
+    "expiry": "08/2026",
+    "status": "Available",
+    "dosage": "Prescription antibiotic. Take once daily after meals."
+  },
+  {
+    "id": "MED-103",
+    "name": "Amoxicillin & Potassium Clavulanate (Moxikind-CV 625)",
+    "brand": "Mankind Pharma",
+    "category": "Antibiotics",
+    "mrp": 204.00,
+    "quantity": 28,
+    "expiry": "10/2026",
+    "status": "Available",
+    "dosage": "Take as prescribed by certified doctor."
+  },
+  {
+    "id": "MED-104",
+    "name": "Pantoprazole 40mg (Pan 40 / Pantocid)",
+    "brand": "Alkem Laboratories",
+    "category": "Gastro Care",
+    "mrp": 155.00,
+    "quantity": 85,
+    "expiry": "05/2027",
+    "status": "Available",
+    "dosage": "Take empty stomach in the morning with water."
+  },
+  {
+    "id": "MED-105",
+    "name": "Montelukast & Levocetirizine (Monticope / Montek-LC)",
+    "brand": "Sun Pharma",
+    "category": "Allergy & Respiratory",
+    "mrp": 180.00,
+    "quantity": 12,
+    "expiry": "04/2026",
+    "status": "Limited Stock",
+    "dosage": "Once daily at night for allergic rhinitis & asthma."
+  },
+  {
+    "id": "MED-106",
+    "name": "Metformin 500mg SR (Glycomet 500)",
+    "brand": "USV Ltd",
+    "category": "Diabetes Care",
+    "mrp": 45.00,
+    "quantity": 210,
+    "expiry": "11/2027",
+    "status": "Available",
+    "dosage": "Take with meals as advised by diabetologist."
+  },
+  {
+    "id": "MED-107",
+    "name": "Telmisartan 40mg (Telma 40)",
+    "brand": "Glenmark Pharma",
+    "category": "Cardiac Care",
+    "mrp": 98.00,
+    "quantity": 120,
+    "expiry": "09/2027",
+    "status": "Available",
+    "dosage": "Blood pressure management. Take once daily."
+  },
+  {
+    "id": "MED-108",
+    "name": "Atorvastatin 10mg (Atorva 10)",
+    "brand": "Zydus Cadila",
+    "category": "Cardiac Care",
+    "mrp": 112.00,
+    "quantity": 60,
+    "expiry": "07/2027",
+    "status": "Available",
+    "dosage": "Cholesterol control. Take at bedtime."
+  },
+  {
+    "id": "MED-109",
+    "name": "Accu-Chek Active Blood Glucose Test Strips (50 Pack)",
+    "brand": "Roche Diagnostics",
+    "category": "Health Devices",
+    "mrp": 1025.00,
+    "quantity": 18,
+    "expiry": "03/2027",
+    "status": "Available",
+    "dosage": "For self-monitoring of blood sugar level."
+  },
+  {
+    "id": "MED-110",
+    "name": "Omron Digital Blood Pressure Monitor (HEM-7120)",
+    "brand": "Omron Healthcare",
+    "category": "Health Devices",
+    "mrp": 2150.00,
+    "quantity": 5,
+    "expiry": "N/A - Device",
+    "status": "Limited Stock",
+    "dosage": "Automatic arm cuff BP monitor with 3-year warranty."
+  },
+  {
+    "id": "MED-111",
+    "name": "Pulse Oximeter Fingertip O2 Monitor",
+    "brand": "Dr. Trust",
+    "category": "Health Devices",
+    "mrp": 890.00,
+    "quantity": 15,
+    "expiry": "N/A - Device",
+    "status": "Available",
+    "dosage": "Measures SpO2 pulse rate and oxygen saturation."
+  },
+  {
+    "id": "MED-112",
+    "name": "Himalaya Liv.52 Syrup (200ml)",
+    "brand": "Himalaya Wellness",
+    "category": "Supplements & Ayurvedic",
+    "mrp": 175.00,
+    "quantity": 40,
+    "expiry": "01/2028",
+    "status": "Available",
+    "dosage": "Ayurvedic liver protection syrup."
+  },
+  {
+    "id": "MED-113",
+    "name": "Dexorange Syrup (300ml)",
+    "brand": "Franco-Indian",
+    "category": "Supplements & Iron",
+    "mrp": 170.00,
+    "quantity": 65,
+    "expiry": "11/2027",
+    "status": "Available",
+    "dosage": "Hematinic syrup for iron deficiency & anemia."
+  },
+  {
+    "id": "MED-114",
+    "name": "Pampers Baby Dry Diapers (Large 42 Count)",
+    "brand": "Procter & Gamble",
+    "category": "Baby Care",
+    "mrp": 699.00,
+    "quantity": 25,
+    "expiry": "10/2028",
+    "status": "Available",
+    "dosage": "All-night absorption leak protection for infants."
+  },
+  {
+    "id": "MED-115",
+    "name": "Lactogen Stage 1 Infant Formula (400g)",
+    "brand": "Nestle",
+    "category": "Baby Care",
+    "mrp": 460.00,
+    "quantity": 0,
+    "expiry": "06/2026",
+    "status": "Out of Stock",
+    "dosage": "Infant milk formula. Consult pediatrician."
+  },
+  {
+    "id": "MED-116",
+    "name": "Sterile Surgical Gauze Bandage & Micro-Pore Tape",
+    "brand": "Dynamic Techno",
+    "category": "Surgical Supplies",
+    "mrp": 120.00,
+    "quantity": 90,
+    "expiry": "05/2029",
+    "status": "Available",
+    "dosage": "First aid wound dressing & dressing tape."
+  },
+  {
+    "id": "MED-117",
+    "name": "Volini Pain Relief Spray (100g)",
+    "brand": "Sun Pharma",
+    "category": "OTC Care",
+    "mrp": 310.00,
+    "quantity": 30,
+    "expiry": "04/2027",
+    "status": "Available",
+    "dosage": "Instant relief from muscle joint & back pain."
+  },
+  {
+    "id": "MED-118",
+    "name": "Insulin Human Injection (Mixtard 30/70 100IU)",
+    "brand": "Novo Nordisk",
+    "category": "Prescription & Cold Chain",
+    "mrp": 198.00,
+    "quantity": 18,
+    "expiry": "09/2026",
+    "status": "Available",
+    "dosage": "Subcutaneous insulin. Stored under strict 2-8°C cold chain."
+  }
+]

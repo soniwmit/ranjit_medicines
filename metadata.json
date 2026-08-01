@@ -1,0 +1,6 @@
+{
+  "name": "Ranjit Medicines",
+  "description": "Trusted Medical Store in Paliganj, Bihar for genuine medicines, health products, and WhatsApp orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
