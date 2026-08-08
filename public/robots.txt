@@ -1,0 +1,6 @@
+# User-agent rules for Ranjit Medicines
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://ranjit-medicines.vercel.app/sitemap.xml

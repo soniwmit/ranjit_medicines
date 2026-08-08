@@ -53,8 +53,8 @@ export const SEO: React.FC<SEOProps> = ({
       "@type": "Pharmacy",
       "name": BUSINESS_INFO.name,
       "image": "https://images.unsplash.com/photo-1586015555751-63bb77f4322a?q=80&w=800",
-      "@id": "https://ranjitmedicines.com/#pharmacy",
-      "url": "https://ranjitmedicines.com",
+      "@id": "https://ranjit-medicines.vercel.app/#pharmacy",
+      "url": "https://ranjit-medicines.vercel.app",
       "telephone": BUSINESS_INFO.phoneDisplay,
       "priceRange": "₹",
       "address": {
@@ -94,13 +94,13 @@ export const SEO: React.FC<SEOProps> = ({
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://ranjitmedicines.com/"
+          "item": "https://ranjit-medicines.vercel.app/"
         },
         pageType !== 'Home' ? {
           "@type": "ListItem",
           "position": 2,
           "name": pageType,
-          "item": `https://ranjitmedicines.com/${pageType.toLowerCase()}`
+          "item": `https://ranjit-medicines.vercel.app/${pageType.toLowerCase()}`
         } : null
       ].filter(Boolean)
     };
