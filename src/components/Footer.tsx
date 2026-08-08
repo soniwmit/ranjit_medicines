@@ -276,15 +276,7 @@ export const Footer: React.FC = () => {
 
             <div className="flex items-center space-x-1 text-slate-400">
               <span>Developed by</span>
-              <a
-                href="https://main.webmakerit.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-400 hover:text-blue-300 font-semibold underline underline-offset-2 flex items-center space-x-1 transition-colors"
-              >
-                <span>WMIT</span>
-                <ExternalLink className="w-3 h-3" />
-              </a>
+             <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
             </div>
           </div>
         </div>
